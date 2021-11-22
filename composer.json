@@ -1,0 +1,12 @@
+{
+    "name": "supremel/utils",
+    "description": "工具类",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Supremel\\Utils\\": "src/"
+        }
+    },
+    "require": {}
+}
